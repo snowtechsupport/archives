@@ -6,6 +6,8 @@ i tried to make it funny by putting the old text and buttons.
 this repo was made by snowtechsupport.
 <b> all things in the repo belongs to their owners. </b>
 
+email me if you want something taken down or added: archive@snowtechsupport.com
+
 
 
 

@@ -4,7 +4,7 @@ welcome to the archives, a place where i can upload cool stuff i find that are m
 i tried to make it funny by putting the old text and buttons. 
 
 this repo was made by snowtechsupport.
-all things in the repo belongs to there owners.
+<b> all things in the repo belongs to there owners. </b>
 
 
 
